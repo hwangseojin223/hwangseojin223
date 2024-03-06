@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ### Hi there 👋
 
+![Seojin Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangseojin223&show_icons=true&theme=radical)
+
 <!--
 **hwangseojin223/hwangseojin223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
