@@ -3,12 +3,9 @@
 
 <h4 > Contact </h4>
 <div >
-  <a href="https://seozinzip.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:seozinidev@gmail.com">
     <img
-      src="https://img.shields.io/badge/seozinidev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/seozinidev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
 </div>
 <h4>Tech Stack</h4>
@@ -39,8 +36,13 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
-
-
+<br>
+<br>
+<div >
+  <a href="https://seozinzip.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
+  </a>
+</div>
 <br>
 <h4>👩‍💻 My Github Stats 👩‍💻</h4>
 <div>
