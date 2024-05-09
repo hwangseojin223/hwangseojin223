@@ -7,7 +7,9 @@
 
  
 <li>2023/12 ~ 2024/02</li>
-  쿠팡 리뷰데이터를 활용한 리뷰 별점 예측 자동화 시스템 및 쇼핑 카테고리 개인화 추천 시스템 개발
+
+  [쿠팡 리뷰데이터를 활용한 리뷰 별점 예측 자동화 시스템 및 쇼핑 카테고리 개인화 추천 시스템 개발](https://github.com/hwangseojin223/COUPANG_REVIEW_PROJECT)
+  
 <h4 > Contact </h4>
 <div >
   <a href="mailto:seozinidev@gmail.com">
