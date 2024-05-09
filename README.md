@@ -2,7 +2,10 @@
 ### Hi there 👋
 <h4> Project </h4>
 <li> 2023/11 ~ 2023/12</li>
-  서울 다세대/연립주택 전세 가격 예측 서비스 : 성동구 중심으로 
+
+ [서울 다세대/연립주택 전세 가격 예측 서비스 : 성동구 중심으로](https://github.com/hwangseojin223/Jeonse_Price_Prediction_Model)
+
+ 
 <li>2023/12 ~ 2024/02</li>
   쿠팡 리뷰데이터를 활용한 리뷰 별점 예측 자동화 시스템 및 쇼핑 카테고리 개인화 추천 시스템 개발
 <h4 > Contact </h4>
