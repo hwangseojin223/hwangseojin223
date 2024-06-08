@@ -9,6 +9,10 @@
 <li>2023/12 ~ 2024/02</li>
 
   [쿠팡 리뷰데이터를 활용한 리뷰 별점 예측 자동화 시스템 및 쇼핑 카테고리 개인화 추천 시스템 개발](https://github.com/hwangseojin223/COUPANG_REVIEW_PROJECT)
+
+<li>2024/05</li>
+
+  [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
   
 <h4 > Contact </h4>
 <div >
