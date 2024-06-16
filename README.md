@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ### Hi there 👋
 <h4> Project </h4>
+<li> 2023/03 ~ 2023/06</li>
+
+ [웹소설 성공 예측 AI 프로그램](https://github.com/HUFS-BigDataProject/WebNovel_Success_Prediction_Model)
+ 
 <li> 2023/11 ~ 2023/12</li>
 
  [서울 다세대/연립주택 전세 가격 예측 서비스 : 성동구 중심으로](https://github.com/hwangseojin223/Jeonse_Price_Prediction_Model)
@@ -13,7 +17,11 @@
 <li>2024/05</li>
 
   [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
-  
+
+<h4>Education</h4>
+<li>2023/08/28 ~ 2024/02/08</li>
+<b>멀티잇 데이터 분석&엔지니어(Python)</b> 
+
 <h4 > Contact </h4>
 <div >
   <a href="mailto:seozinidev@gmail.com">
