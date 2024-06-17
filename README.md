@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ### Hi there 👋
-<h4> Project </h4>
+<h4> 👩🏻‍💻 Project </h4>
 <li> 2023/03 ~ 2023/06</li>
 
  [웹소설 성공 예측 AI 프로그램](https://github.com/HUFS-BigDataProject/WebNovel_Success_Prediction_Model)
@@ -18,18 +18,26 @@
 
   [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
 
-<h4>Education</h4>
+<br>
+<h4> 📃 블로그 </h4>
+<div >
+  <a href="https://seozinzip.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
+  </a>
+</div>
+
+<h4> 📚 Education</h4>
 <li>2023/08/28 ~ 2024/02/08</li>
 <b>멀티잇 데이터 분석&엔지니어(Python)</b> 
-
-<h4 > Contact </h4>
+<br>
+<h4 > 📩 Contact </h4>
 <div >
   <a href="mailto:seozinidev@gmail.com">
     <img
       src="https://img.shields.io/badge/seozinidev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
 </div>
-<h4>Tech Stack</h4>
+<h4> ⚙️ Tech Stack</h4>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">&nbsp
@@ -45,26 +53,19 @@
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp 
 </div>
-<br>
-<h4> Version Control</h4>
+<h4> 🔨 Version Control</h4>
 <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">&nbsp
 </div>
-<h4>Social</h4>
+<h4> 👥 Social</h4>
 <div>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 <br>
-<br>
-<div >
-  <a href="https://seozinzip.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
-  </a>
-</div>
-<br>
+
 
 <h4>👩‍💻 My Github Stats 👩‍💻</h4>
 <div>
