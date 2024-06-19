@@ -19,7 +19,7 @@
   [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
 
 <br>
-<h4> 📃 블로그 </h4>
+<h4> 📃 Blog </h4>
 <div >
   <a href="https://seozinzip.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
