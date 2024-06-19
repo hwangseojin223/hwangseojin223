@@ -37,6 +37,15 @@
       src="https://img.shields.io/badge/seozinidev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
 </div>
+
+<h4>👩‍💻 My Github Stats 👩‍💻</h4>
+<div>
+  
+[![hwangseojin223's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangseojin223&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
+
+<!-- 
 <h4> ⚙️ Tech Stack</h4>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp 
@@ -66,13 +75,9 @@
 </div>
 <br>
 
+-->
 
-<h4>👩‍💻 My Github Stats 👩‍💻</h4>
-<div>
-  
-[![hwangseojin223's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangseojin223&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>
+
 
 <!--
 **hwangseojin223/hwangseojin223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
