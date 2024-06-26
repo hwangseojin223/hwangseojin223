@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom)
 ### Hi there 👋
-<h4> 👩🏻‍💻 Project </h4>
+<h4> 👩🏻‍💻 Projects </h4>
 <li> 2023/03 ~ 2023/06</li>
 
  [웹소설 성공 예측 AI 프로그램](https://github.com/HUFS-BigDataProject/WebNovel_Success_Prediction_Model)
