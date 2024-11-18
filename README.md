@@ -19,6 +19,9 @@
 
  [GBT_HACKERTON](https://github.com/hwangseojin223/GBT_hackerton)
 
+<li>2024/11/16</li>
+
+[HUFSTHON](https://github.com/hwangseojin223/HUFSTHON)
  
 <!-- <li> 2023/03 ~ 2023/06</li> 
 
