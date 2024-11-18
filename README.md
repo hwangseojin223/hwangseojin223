@@ -14,11 +14,17 @@
 <li>2024/05</li>
 
   [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
-  
+
+<li>2024/09/23~2024/11/01</li>
+
+ [GBT_HACKERTON](https://github.com/hwangseojin223/GBT_hackerton)
+
+ 
 <!-- <li> 2023/03 ~ 2023/06</li> 
 
  [웹소설 성공 예측 AI 프로그램](https://github.com/HUFS-BigDataProject/WebNovel_Success_Prediction_Model)
 -->
+
  
 <br>
 <h4> 📃 Blog </h4>
