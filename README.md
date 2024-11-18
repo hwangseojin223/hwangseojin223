@@ -15,11 +15,16 @@
 
   [RAG모델과 LangChain프레임워크를 활용한 의료 챗봇 시스템 구현 :증상 기반 질환명 정보 전달을 중심으로](https://github.com/hwangseojin223/Symptom-Disease-Prediction-Chatbot)
 
-<li>2024/09/23~2024/11/01</li>
+<li>2024/05</li>
+
+ [HUFS Generatvie AI Ideathon](https://github.com/hwangseojin223/Generative_AI_Ideathon)
+
+
+<li>2024/09 ~ 2024/11</li>
 
  [GBT_HACKERTON](https://github.com/hwangseojin223/GBT_hackerton)
 
-<li>2024/11/16</li>
+<li>2024/11</li>
 
 [HUFSTHON](https://github.com/hwangseojin223/HUFSTHON)
  
