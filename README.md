@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=87CEEB)
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=black&text=Hi%20there%20👋&fontColor=FFFFFF&fontSize=30)
 
-### Hi there 👋
 <h4> 👩🏻‍💻 Projects </h4>
 
 <li> 2023/11 ~ 2023/12</li>
@@ -49,10 +48,10 @@
 <b>멀티잇 데이터 분석&엔지니어(Python)</b> 
 <br>
 <h4 > 📩 Contact </h4>
-<div >
+<div>
   <a href="mailto:seozinidev@gmail.com">
     <img
-      src="https://img.shields.io/badge/seozinidev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+      src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
 </div>
 
