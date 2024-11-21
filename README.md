@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=87CEEB)
+
+
 ### Hi there 👋
 <h4> 👩🏻‍💻 Projects </h4>
 
