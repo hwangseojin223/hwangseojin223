@@ -36,7 +36,10 @@
 
  [LLM을 활용한 음식 추천 시스템](https://github.com/hwangseojin223/LLM_Custom_Food_Rec)
 
+<li>2025/04</li>
 
+ [영화 예매 사이트](https://github.com/hwangseojin223/web_mini)
+ 
 <!-- <li> 2023/03 ~ 2023/06</li> 
 
  [웹소설 성공 예측 AI 프로그램](https://github.com/HUFS-BigDataProject/WebNovel_Success_Prediction_Model)
