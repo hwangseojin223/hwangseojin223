@@ -39,6 +39,10 @@
 <li>2025/04</li>
 
  [영화 예매 사이트](https://github.com/hwangseojin223/web_mini)
+
+ <li>2025/06/23 ~ 2025/07/29</li>
+
+ [ZOOP(AI 기반 헤드헌팅 및 채용 서비스)](https://github.com/hwangseojin223/zoop)
  
 <!-- <li> 2023/03 ~ 2023/06</li> 
 
@@ -53,6 +57,15 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
   </a>
 </div>
+
+<h4> 🏋🏻‍♂️ Activity</h4>
+<li>2024/03 ~ 2024/12</li>
+<b>DAT(데이터분석학회)</b> 
+<br>
+
+<h4> 🪪 License</h4>
+<li>SQLD</li>
+<br>
 
 <h4> 📚 Education</h4>
 <li>2023/08/28 ~ 2024/02/08</li>
