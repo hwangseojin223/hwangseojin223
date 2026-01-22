@@ -44,6 +44,13 @@
 
 <br/>
 
+<!-- AI Tools -->
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Amazon%20Q-000000?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kiro-000000?style=flat-square"/>
+
+<br/>
+
 <!-- LLM / RAG -->
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white"/>
